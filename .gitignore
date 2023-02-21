@@ -49,3 +49,4 @@ yarn-error.log
 .wafpickle-*
 
 SDL2.2.26.2.framework/
+.vscode/
