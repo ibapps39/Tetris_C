@@ -1,5 +1,5 @@
 CC            = gcc
-CFLAGS        = -Wall -Wextra -std=c17  -pedantic
+CFLAGS        =-g -Wall -Wextra -pedantic -std=c17 -D_GNU_SOURCE -D_DEBUG -D_UNIT_TEST -I./include
 #-L # GLFW -L/opt/homebrew/opt/glfw/lib
 LDFLAGS       = -L/opt/homebrew/opt/sdl2/lib
 #-l
