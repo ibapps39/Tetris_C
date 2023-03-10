@@ -2,6 +2,6 @@
 
 int main() {
     //mn();
-    mnSDL();
+    //mnSDL();
     return 0;
 }
